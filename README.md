@@ -1,12 +1,12 @@
 # Programing-Languages
-This repository contains course work in 3 different languages, Prolog, LISP, and C. All 3 programs
+This repository contains course work in 3 different languages, Prolog, Common LISP, and C. All 3 programs
 where completed for a course at the California State University of San Marcos. All work was completed independenlty.
 
 Prolog:
 
-LISP: The program encrypts English words using the Cesar Cypher method, the program also decrypts words.
+Common LISP: The program encrypts English words using the Cesar Cypher method, it can also decrypts words.
 The program is not finished, however it compiles
-and runs fine. The program can only take in a list of
+and runs fine. As input it can only take in a list of
 atoms, it does not support list of list.
 All encryption and decryption is correct, however the
 program does have an issue decrypting 'r' back to 'm'.
