@@ -5,7 +5,7 @@ where completed for a course at the California State University of San Marcos. A
 Prolog:
 
 LISP: The program encrypts English words using the Cesar Cypher method, the program also decrypts words.
-The program is not finished, however the program compiles
+The program is not finished, however it compiles
 and runs fine. The program can only take in a list of
 atoms, it does not support list of list.
 All encryption and decryption is correct, however the
