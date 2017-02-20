@@ -14,4 +14,4 @@ Methods of input:	(encrypt'(c o m p u t e r)),
                   (decrypt'(h t r y z u j w))
 		
 C: The program converts english words to NATO words and NATO words to elglish 
-words. The method of input for this program is a file called words.txt
+words. The method of input for this program is a file called "words.txt" which can be created by the user
