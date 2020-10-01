@@ -3,9 +3,9 @@ This repository contains course work in 3 different languages, Prolog, Common LI
 where completed for a course at the California State University of San Marcos. All work was completed independenlty.
 
 ## Prolog:  
-The program answers simple quraries such as; "Which students have satisfied the requirements?" - degree(X),
+The program answers simple queries such as; "Which students have satisfied the requirements?" - degree(X),
 and "What are the elective requirements fulfilled by a student?" - taken(student, X).
-The program compiles and runs fine, however there is a bug in the "degree(X)." queary. The program
+The program compiles and runs fine, however there is a bug in the "degree(X)." query. The program
 will display the correct names, however it will display them multiple times.
 
 ## Common LISP: 
